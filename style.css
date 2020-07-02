@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+h2{
+    font-size:35px;
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    color: salmon;
+}
+p{
+    font-size: 12px;
+}
+.half-width{
+    width:30%;
+    float:left;
+    margin-left:13%;
+    padding-left:5%;
+}
+.half-width img{
+    width:100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg,lightsalmon,tomato);
+    padding: 5px 10px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 150;
+}
+.three-part img{
+    width:33%;
+    float:left;
+    height: 3%;
+}
+section{
+    height:600px;
+    padding-bottom:100px;
+}
+.the-end{
+    text-align: center;
+}
